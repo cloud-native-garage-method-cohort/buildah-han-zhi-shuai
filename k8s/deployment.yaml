@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   annotations:
-    app.openshift.io/vcs-ref: 65f3767d1c81b3171256a5be1f6739adbaf71e9e
+    app.openshift.io/vcs-ref: cd86df7fa1015fb8d4ee6e7fc99ec0cf43693e4b
     app.openshift.io/vcs-uri: https://github.com/cloud-native-garage-method-cohort/buildah-han-zhi-shuai
   labels:
     app: han-zhi-shuai-live-pfs
